@@ -60,8 +60,10 @@
 
 <p>This will produce an executable named <code>a.out</code>.</p>
 
-<p>To run the compiled program:</p>
+<p>To run the compiled program(ubuntu):</p>
 <pre><code class="bash">./a.out</code></pre>
+<p>To run the compiled program(win):</p>
+<pre><code class="bash">.\a.exe</code></pre>
 
 </body>
 </html>
